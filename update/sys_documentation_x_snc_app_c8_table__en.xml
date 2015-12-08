@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="App_C8 Table" language="en" table="x_snc_app_c8_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>App_C8 Table</label>
+            <language>en</language>
+            <name>x_snc_app_c8_table</name>
+            <plural>App_C8 Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jj</sys_created_by>
+            <sys_created_on>2015-12-08 20:04:16</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>0a845c544fd01200f474fe618110c7eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>App_C8 Table</sys_name>
+            <sys_package display_value="App_C8" source="x_snc_app_c8">a984d4544fd01200f474fe618110c7d8</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="App_C8">a984d4544fd01200f474fe618110c7d8</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_app_c8_table__en</sys_update_name>
+            <sys_updated_by>jj</sys_updated_by>
+            <sys_updated_on>2015-12-08 20:04:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
